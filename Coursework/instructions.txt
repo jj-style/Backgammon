@@ -1,0 +1,9 @@
+- The objective of the game is to to be the first to remove all pieces off the board.
+- Player 1 moves their pieces clockwise, Player 2 anti-clockwise.
+- Pieces are moved in relation to dice rolls.
+- Pieces on the bar must be removed before moving board pieces
+- A piece cannot be moved to another spike if it has the other players pieces on
+unless there is only 1 piece.
+- Pieces can be cleared once they are all within your quarter of the board.
+
+(Click anywhere to close)
