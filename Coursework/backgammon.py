@@ -432,6 +432,7 @@ def initialiseBoard(game_type):
 
 def initPygame():
     pygame.init()
+    pygame.mixer.quit()
     pygame.display.set_caption('Backgammon')
     pygame.display.set_icon(window_icon)
     screen = pygame.display.set_mode(size)
